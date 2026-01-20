@@ -16,7 +16,15 @@
 
 ### Mikä on yhdistämispyyntö (pull request) ja mihin sitä käytetään?
 
-Yhdistämispyyntö on ehdotus reposition ylläpitäjälle yhdistää pyynnön tehneen käyttäjän tekemät muutokset johonkin haaraan.
+- Yhdistämispyyntö on ehdotus reposition ylläpitäjälle yhdistää pyynnön tehneen käyttäjän tekemät muutokset johonkin haaraan.
 
-Sitä käytetään debugaamisessa, jos esimerkiksi joku tietää miten bugi korjataan ja haluaisi että hänen koodinsa liitettäisiin johonkin haaraan jossa vika sijaitsee.
+- Sitä käytetään debugaamisessa, jos esimerkiksi joku tietää miten bugi korjataan ja haluaisi että hänen koodinsa liitettäisiin johonkin haaraan jossa vika sijaitsee.
+
+### Mikä on GitHub, miten se eroaa git:istä ja mihin sitä käytetään?
+
+- Github on git arkisojen web ylläptiämis paikka jossa pidetään git arkisoja ja github myös antaa eri yhteistyö ominaisuuksia.
+
+- Git toisinaan on lokaalinen koodi muokkauksien seuranta juttu.
+
+Eli github on web gui versio git:istä jossa on lisä ominaisuuksia gittiin verrattuna.   
 
