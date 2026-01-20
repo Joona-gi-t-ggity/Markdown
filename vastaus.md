@@ -7,5 +7,11 @@
 3. git clone https://github.com/TopiS-TAI/eka-repo
 4. git log
 
+### Mitä seuraavat git-komennot tekevät?
+
+1. puskee paikallisenhaaran etähaaran tilalle
+2. näyttää muutoksien tilat
+3. vaihtaa haaraan diipadaapa
+4. listaa kaikki paikalliset- ja etähaarat
 
 
